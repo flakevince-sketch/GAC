@@ -1,0 +1,47 @@
+{
+  "background_color": "#ffffff",
+  "description": "Gym and calisthenics training app with true install-to-device PWA behavior.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "GAC — Gym And Calisthenics",
+  "orientation": "any",
+  "scope": "/GAC.com",
+  "short_name": "GAC.com",
+  "start_url": "/GAC-fit.com",
+  "theme_color": "#f4c542",
+  "icons": [
+    {
+      "src": "https://gac-qymdgd.v2.appdeploy.ai/gac-icon.svg",
+      "type": "image/svg+xml",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://gac-qymdgd.v2.appdeploy.ai/assets/preview.png",
+      "type": "image/png",
+      "sizes": "1280x720",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 1280,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "GAC",
+  "display_override": [
+    "fullscreen",
+    "window-controls-overlay",
+    "standalone",
+    "minimal-ui",
+    "browser"
+  ]
+}
